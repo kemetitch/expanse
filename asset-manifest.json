@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expanse/static/css/main.c196f302.css",
+    "main.js": "/expanse/static/js/main.99acf57d.js",
+    "index.html": "/expanse/index.html",
+    "main.c196f302.css.map": "/expanse/static/css/main.c196f302.css.map",
+    "main.99acf57d.js.map": "/expanse/static/js/main.99acf57d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c196f302.css",
+    "static/js/main.99acf57d.js"
+  ]
+}
